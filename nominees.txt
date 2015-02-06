@@ -1,0 +1,55 @@
+Best Picture
+American Sniper
+Birdman or (The Unexpected Virtue of Ignorance)
+Boyhood
+The Grand Budapest Hotel
+The Imitation Game
+Selma
+The Theory of Everything
+Whiplash
+
+Actor in a Leading Role
+Steve Carell, "Foxcatcher"
+Bradley Cooper, "American Sniper"
+Benedict Cumberbatch, "The Imitation Game"
+Michael Keaton, "Birdman"
+Eddie Redmayne, "The Theory of Everything"
+
+Actress in a Leading Role
+Marion Cotillard, "Two Days, One Night"
+Felicity Jones, "The Theory of Everything"
+Julianne Moore, "Still Alice"
+Rosamund Pike, "Gone Girl"
+Reese Witherspoon, "Wild"
+
+‘Animated Feature Film’,
+‘Big Hero 6’,
+‘The Boxtrolls’,
+‘How to Train Your Dragon 2’,
+‘Song of the Sea’,
+‘The Tale of Princess Kaguya’,
+
+“Makeup and Hairstyling”,
+“Foxcatcher”,
+“The Grand Budapest Hotel”,
+“Guardians of the Galaxy”,
+
+Original Song,
+"Everything is Awesome" from "The Lego Movie”,
+"Glory" from "Selma”,
+"Grateful" from "Beyond the Lights”,
+"I'm Not Gonna Miss You" from "Glen Campbell ... I'll Be Me”,
+
+.Writing Adapted Screenplay.,
+.American Sniper.,
+.The Imitation Game.,
+.Inherent Vice.,
+.The Theory of Everything.,
+.Whiplash.,
+
+Writing Original Screenplay
+Birdman or (The Unexpected Virtue of Ignorance)
+Boyhood
+Foxcatcher
+The Grand Budapest Hotel
+Nightcrawler
