@@ -54,10 +54,10 @@ my @ctegories = (                   #2-dimensional array
 );
 
 my $candidate, my $choice;
-for $_ (@ctegories) {                                             #loop the rows, $_ is default for @categories
+for $_ (@ctegories) {                  #loop the rows, $_ is default for @categories
    print (("="x40).("\nThe nominees for $$_[0] are: \n\n"));
    my $count = 1;
-   for my $winner ( @$_[1..$#$_])   {                             #loop the elements of each row
+   for my $winner ( @$_[1..$#$_])   {  #loop the elements of each row
       print '['.$count.']'.' '.$winner, "\n";
       $count++;
    }
@@ -66,9 +66,9 @@ for $_ (@ctegories) {                                             #loop the rows
    do {
       print "Please enter your choice for $$_[0] now: ";
       chomp ($choice = <>);
-      if($choice == @$_) {                                        #if choice is size of default variable array
+      if($choice == @$_) {             #$calar.@rray compare uses number of elements for @
          print 'Please enter your write-in candidate: ';
-         chomp ($$_[$choice] = <>);                               #enters new candidate into the 2-d array
+         chomp ($$_[$choice] = <>);    #enters new candidate into the 2-d array
       }
    } while ( $choice > $count || $choice < 1);
    chomp ($candidate .= $choice);
